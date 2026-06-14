@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rupesh%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=16&descColor=c4b5fd" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rupesh%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=16&descColor=c4b5fd" alt="Header" width="100%" />
 </p>
 
 <p align="center">
@@ -17,29 +17,25 @@
 </p>
 
 <p align="center">
-  <a href="https://rupesh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rupesh.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rupeshkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/rupesh-sharma-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:rupesh@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:xcloud@myyahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/rupeshkumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@rupeshkumar-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Xcloud007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@Xcloud007-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rupeshkumar&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Xcloud007&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/rupeshkumar?style=flat-square&color=6D28D9&label=Followers&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Xcloud007?style=flat-square&color=6D28D9&label=Followers&logo=github&logoColor=white" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/rupeshkumar?style=flat-square&color=5B21B6&label=Stars&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/Xcloud007?style=flat-square&color=5B21B6&label=Stars&logo=github&logoColor=white" alt="Stars" />
 </p>
 
 ---
@@ -48,28 +44,29 @@
 
 ```typescript
 const rupesh = {
+  name        : "Rupesh Sharma",
   role        : "Software Engineer  |  AI/ML Engineer  |  Full Stack Developer",
   education   : "B.Tech Computer Science (AI/ML) — Dr. A.P.J. Abdul Kalam Technical University",
   focus       : [
     "Reinforcement Learning & Decision-Making Systems",
-    "AI-Based Workforce Optimization for Aging Economies",
     "Scalable Full Stack Web Engineering",
     "Cloud-Native Architecture & MLOps",
+    "Applied AI for Real-World Problem Solving",
   ],
   philosophy  : "Ship production-grade systems. Design for scale. Engineer with intent.",
-  currentlyOn : "MEXT 2027 Scholarship Applicant (Embassy of Japan, India)",
+  currently   : "Final-year CS undergrad — building, researching, and shipping.",
 };
 ```
 
-I am a final-year Computer Science undergraduate with an AI/ML specialization, building at the intersection of **reinforcement learning**, **full-stack engineering**, and **cloud infrastructure**. My research centers on applying DQN/PPO-based RL to workforce scheduling modeled as a Markov Decision Process — targeting Japan's demographic labor crisis with frameworks extensible to India's future workforce challenges.
+I am a final-year Computer Science undergraduate with an AI/ML specialization, operating at the intersection of **reinforcement learning**, **full-stack engineering**, and **cloud infrastructure**. My work spans from designing DQN/PPO-based RL agents and modeling sequential decision-making systems, to building production-grade web applications with modern frontend and backend stacks.
 
-I approach software not as a craft of features but as a discipline of systems — prioritizing correctness, observability, and long-term maintainability over short-term velocity. My product mindset is rooted in ownership: from architecture decisions through deployment, monitoring, and iteration.
+I treat software as a discipline of systems — not a collection of features. Every project I ship is designed with correctness, observability, and long-term maintainability at its core. I take ownership end-to-end: from architecture and implementation through deployment, monitoring, and iteration. My goal is to build things that work reliably at scale and mean something in the real world.
 
 <br/>
 
 ### Open To
 
-- `Full-Time` — Software Engineer · Frontend Engineer · AI/ML Engineer
+- `Full-Time` — Software Engineer · AI/ML Engineer
 - `Research` — Graduate positions in AI, ML, and Intelligent Systems
 - `Collaboration` — Open source, applied AI research, and developer tooling
 
@@ -142,7 +139,7 @@ I approach software not as a craft of features but as a discipline of systems �
 | **MLOps & Model Deployment** | ███████░░░ Proficient | FastAPI serving, Dockerized pipelines, GCP Vertex AI, BigQuery ML |
 | **Cloud ML APIs** | ████████░░ Advanced | GCP Vision AI, Dataflow, Dataproc, BigQuery, AutoML |
 | **Statistical Modeling** | ███████░░░ Proficient | Hypothesis testing, regression, time-series, survival analysis |
-| **Optimization Algorithms** | ████████░░ Advanced | Gradient methods, evolutionary strategies, workforce scheduling as MDP |
+| **Optimization Algorithms** | ████████░░ Advanced | Gradient methods, evolutionary strategies, sequential decision-making |
 
 </div>
 
@@ -154,22 +151,16 @@ I approach software not as a craft of features but as a discipline of systems �
 <summary><strong>⬡ &nbsp; AI Workforce Optimization Engine — RL-Based Labor Scheduling</strong></summary>
 <br/>
 
-> An end-to-end reinforcement learning system that models workforce scheduling for aging economies as a Markov Decision Process. The agent learns optimal shift allocation policies under demographic constraints, skill heterogeneity, and productivity decay functions — with a Japan-focused evaluation framework extensible to global labor markets.
+> An end-to-end reinforcement learning system that models workforce scheduling as a Markov Decision Process. The agent learns optimal shift allocation policies under demographic constraints, skill heterogeneity, and productivity decay functions — with an evaluation framework extensible to global labor markets.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Python · PyTorch · PPO / DQN · NumPy · FastAPI · Docker · GCP |
-| **Scale** | Multi-industry simulation environments; 10K+ agent-step episodes |
-| **Performance** | 23% reduction in scheduling inefficiency vs. greedy baseline across eval scenarios |
-| **Research Scope** | Master's-level research design with MDP formulation and ablation studies |
-| **Impact** | Dual-framing: Japan aging labor crisis + India future workforce readiness |
-| **Repository** | [View Repository →](https://github.com/rupeshkumar/workforce-optimizer) |
+| **Repository** | [View Repository →](https://github.com/Xcloud007/workforce-optimizer) |
 
 </div>
-
-This project emerged from a rigorous literature gap analysis of seven academic papers on labor optimization and demographic economics. The core innovation is treating workforce scheduling not as a constraint satisfaction problem but as a sequential decision-making task under uncertainty — enabling the agent to develop temporally consistent allocation policies rather than greedy per-epoch assignments.
 
 <br/>
 </details>
@@ -178,22 +169,16 @@ This project emerged from a rigorous literature gap analysis of seven academic p
 <summary><strong>⬡ &nbsp; Full Stack Developer Portfolio Platform — Next.js + Cloud</strong></summary>
 <br/>
 
-> A production-grade, cloud-deployed personal portfolio and project showcase built with Next.js 14, TypeScript, and Tailwind CSS. Features SSR, dynamic project metadata, contact API routes, analytics integration, and CI/CD automation via GitHub Actions.
+> A production-grade, cloud-deployed project showcase built with Next.js 14, TypeScript, and Tailwind CSS. Features SSR, dynamic project metadata, contact API routes, analytics integration, and CI/CD automation via GitHub Actions.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Next.js 14 · TypeScript · Tailwind CSS · Node.js · Vercel · GitHub Actions |
-| **Scale** | SSR + ISR architecture; sub-100ms TTFB on edge |
-| **Performance** | Lighthouse score 98+ across all four categories |
-| **Security** | CSP headers, rate-limited API routes, environment variable isolation |
-| **Impact** | Recruiter-facing portfolio for frontend/software engineering roles |
-| **Repository** | [View Repository →](https://github.com/rupeshkumar/portfolio) |
+| **Repository** | [View Repository →](https://github.com/Xcloud007/portfolio) |
 
 </div>
-
-Architected with product engineering principles: the platform is not a static site but a living system — designed for content updates without code changes, analytics-driven iteration, and zero-downtime deployments. Emphasis on Core Web Vitals optimization and accessibility compliance.
 
 <br/>
 </details>
@@ -202,22 +187,16 @@ Architected with product engineering principles: the platform is not a static si
 <summary><strong>⬡ &nbsp; Image Analytics Pipeline — Digital Image Processing Suite</strong></summary>
 <br/>
 
-> A comprehensive image analytics system implementing classical and deep-learning-based processing pipelines: morphological operations, multi-scale segmentation, Fourier/wavelet feature transforms, and CNN-based classification. Built as an academic deep-dive into the full image processing stack.
+> A comprehensive image analytics system implementing classical and deep-learning-based processing pipelines: morphological operations, multi-scale segmentation, Fourier/wavelet feature transforms, and CNN-based classification.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Python · OpenCV · PyTorch · NumPy · scikit-image · Matplotlib |
-| **Scale** | Modular pipeline supporting batch processing across multiple image domains |
-| **Performance** | CNN classifier achieved 91.4% accuracy on benchmark evaluation dataset |
-| **Techniques** | Histogram equalization, morphological reconstruction, FFT, Gabor filters, CNNs |
-| **Impact** | End-to-end understanding of image processing from pixel ops to deep features |
-| **Repository** | [View Repository →](https://github.com/rupeshkumar/image-analytics) |
+| **Repository** | [View Repository →](https://github.com/Xcloud007/image-analytics) |
 
 </div>
-
-This project systematically implements five knowledge units: spatial domain processing, morphological analysis, image segmentation, frequency-domain feature extraction, and deep learning classification — providing a reference-grade implementation of the full academic curriculum in applied computer vision.
 
 <br/>
 </details>
@@ -233,15 +212,9 @@ This project systematically implements five knowledge units: spatial domain proc
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | GCP · Dataflow · BigQuery · Dataproc · Cloud Storage · ML APIs · Python |
-| **Scale** | Pipeline designs validated across GCP challenge lab environments |
-| **Architecture** | ELT → warehouse → ML inference pattern; serverless-first design |
-| **APIs** | Vision AI, Natural Language API, AutoML, BigQuery ML |
-| **Impact** | Production-ready cloud engineering competency across the GCP data stack |
-| **Repository** | [View Repository →](https://github.com/rupeshkumar/gcp-data-engineering) |
+| **Repository** | [View Repository →](https://github.com/Xcloud007/gcp-data-engineering) |
 
 </div>
-
-Engineered through the Google Cloud Skills Boost challenge lab track — each module is a production-style implementation task rather than a tutorial. The suite demonstrates end-to-end ownership of a modern cloud data platform: ingestion, transformation, storage, analytics, and ML-integrated output.
 
 <br/>
 </details>
@@ -255,7 +228,7 @@ Engineered through the Google Cloud Skills Boost challenge lab track — each mo
 
 Embedded within the engineering team as a full-stack contributor, responsible for feature development, code review participation, and cross-functional delivery. Operated across the complete development lifecycle — from requirements analysis and system design through implementation, testing, and production deployment.
 
-- Developed and shipped [N] production features across frontend and backend systems
+- Developed and shipped production features across frontend and backend systems
 - Contributed to React/Next.js UI components with TypeScript type safety and accessibility compliance
 - Integrated RESTful APIs and designed database schemas for feature delivery at scale
 - Participated in agile ceremonies, sprint planning, and technical design reviews
@@ -272,37 +245,13 @@ Embedded within the engineering team as a full-stack contributor, responsible fo
 
 ---
 
-### Research Contributor &nbsp;·&nbsp; AI/ML Independent Research
-`2024` — `Present`
-
-Self-directed applied research in reinforcement learning and demographic economics, culminating in a Master's-grade research proposal submitted as part of the MEXT 2027 scholarship application. Research conducted through systematic literature review, gap analysis, and iterative methodology refinement.
-
-- Designed DQN/PPO-based RL system for workforce scheduling modeled as an MDP
-- Conducted literature gap analysis across seven peer-reviewed papers on labor optimization
-- Developed dual-impact research framing connecting Japan's aging economy to India's future
-- Identified target professors and institutions across Ritsumeikan, Waseda, and Yokohama National University
-- Produced MEXT-standard two-page research plan with formal methodology and scope definition
-
-<p>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-7C3AED?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Research%20Design-6D28D9?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-5B21B6?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Academic%20Writing-4C1D95?style=flat-square&logoColor=white" />
-</p>
-
----
-
 ## Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |:---:|:---|
-| 🎌 **MEXT 2027 Applicant** | Submitted preliminary scholarship application to Embassy of Japan in India (April 2026) — targeting graduate study in AI/workforce systems |
 | ☁️ **Google Cloud Skills Boost** | Completed challenge labs across Dataflow, BigQuery, Dataproc, and GCP ML APIs |
-| 🏆 **[Hackathon / Competition]** | [Achievement detail — replace with actual] |
-| 📄 **[Academic Recognition]** | [Achievement detail — replace with actual] |
-| 🔬 **Research Proposal** | Developed Master's-grade RL research proposal approved across multiple expert review cycles |
 | 💡 **Open Source Contributor** | Active contributor to repositories in AI/ML and full-stack development ecosystems |
 
 </div>
@@ -318,55 +267,25 @@ Self-directed applied research in reinforcement learning and demographic economi
   <img src="https://img.shields.io/badge/GCP-ML%20APIs%20%26%20BigQuery-6D28D9?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-<p align="center"><strong>AWS</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-5B21B6?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-<p align="center"><strong>NPTEL</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-5B21B6?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-<p align="center"><strong>Cisco</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-4C1D95?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<p align="center"><strong>Oracle</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
 ---
 
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/rupeshkumar" target="_blank">
+  <a href="https://leetcode.com/Xcloud007" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://geeksforgeeks.org/user/rupeshkumar" target="_blank">
+  <a href="https://geeksforgeeks.org/user/Xcloud007" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Contributor-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" />
   </a>
 </p>
 <p align="center">
-  <a href="https://hackerrank.com/rupeshkumar" target="_blank">
+  <a href="https://hackerrank.com/Xcloud007" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Certified-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://codechef.com/users/rupeshkumar" target="_blank">
+  <a href="https://codechef.com/users/Xcloud007" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-4C1D95?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" />
   </a>
 </p>
@@ -376,13 +295,13 @@ Self-directed applied research in reinforcement learning and demographic economi
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshkumar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c4b5fd&border_radius=12&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xcloud007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c4b5fd&border_radius=12&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshkumar&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c4b5fd&border_radius=12&layout=compact&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcloud007&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c4b5fd&border_radius=12&layout=compact&langs_count=8" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshkumar&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9&border_radius=12" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xcloud007&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9&border_radius=12" alt="GitHub Streak" />
 </p>
 
 ---
@@ -390,7 +309,7 @@ Self-directed applied research in reinforcement learning and demographic economi
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupeshkumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xcloud007&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -398,7 +317,7 @@ Self-directed applied research in reinforcement learning and demographic economi
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshkumar&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=c4b5fd&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=6" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xcloud007&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=c4b5fd&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=6" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -407,9 +326,9 @@ Self-directed applied research in reinforcement learning and demographic economi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupeshkumar/rupeshkumar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupeshkumar/rupeshkumar/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/rupeshkumar/rupeshkumar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xcloud007/Xcloud007/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xcloud007/Xcloud007/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Xcloud007/Xcloud007/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
@@ -422,24 +341,24 @@ Self-directed applied research in reinforcement learning and demographic economi
 
 learning:
   - Markov Decision Processes and advanced policy gradient methods (PPO, SAC)
-  - Graduate-level ML mathematics: optimization theory, probabilistic graphical models
-  - Japanese language (JLPT N4 target — MEXT preparation)
+  - ML mathematics: optimization theory, probabilistic graphical models
   - System design patterns for distributed AI inference at scale
+  - Cloud-native architecture on GCP and AWS
 
 building:
   - RL-based workforce scheduling simulation environment (PyTorch + custom Gym env)
   - Cloud-native data engineering pipelines on GCP (Dataflow + BigQuery + Dataproc)
-  - Full-stack developer portfolio with Next.js 14 and TypeScript
+  - Full-stack applications with Next.js 14 and TypeScript
 
 exploring:
   - Multi-agent reinforcement learning for economic simulation
   - LLM fine-tuning and parameter-efficient methods (LoRA, QLoRA)
   - Edge deployment of ML models via ONNX and TensorRT
-  - Scholarship-funded graduate research programs in Japan
+  - Graduate research programs in AI and Intelligent Systems
 
 open_to:
-  - Full-time: Software Engineer / Frontend Engineer / AI-ML Engineer (India / Remote)
-  - Graduate: MEXT 2027 — Ritsumeikan · Waseda · Yokohama National University
+  - Full-time: Software Engineer / AI-ML Engineer (India / Remote)
+  - Graduate: Research positions in AI, ML, and Intelligent Systems
   - Collaboration: Applied RL research, open source AI tooling, developer infrastructure
 ```
 
@@ -448,20 +367,16 @@ open_to:
 ## Connect
 
 <p align="center">
-  <a href="mailto:rupesh@email.com">
-    <img src="https://img.shields.io/badge/Gmail-rupesh@email.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:xcloud@myyahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo%20Mail-xcloud@myyahoo.com-7C3AED?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/rupeshkumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rupesh%20Kumar-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rupesh-sharma-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rupesh%20Sharma-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/rupeshkumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@rupeshkumar-5B21B6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://rupesh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rupesh.dev-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://github.com/Xcloud007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@Xcloud007-5B21B6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
