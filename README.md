@@ -295,9 +295,9 @@ Embedded within the engineering team as a full-stack contributor, responsible fo
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xcloud007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c4b5fd&border_radius=12&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Xcloud007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c4b5fd&border_radius=12&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcloud007&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c4b5fd&border_radius=12&layout=compact&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Xcloud007&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c4b5fd&border_radius=12" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
