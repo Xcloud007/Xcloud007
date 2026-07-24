@@ -148,17 +148,17 @@ I treat software as a discipline of systems — not a collection of features. Ev
 ## Featured Projects
 
 <details>
-<summary><strong>⬡ &nbsp; AI Workforce Optimization Engine — RL-Based Labor Scheduling</strong></summary>
+<summary><strong>⬡ &nbsp; AI Search — Terminal-Based AI Search Engine</strong></summary>
 <br/>
 
-> An end-to-end reinforcement learning system that models workforce scheduling as a Markov Decision Process. The agent learns optimal shift allocation policies under demographic constraints, skill heterogeneity, and productivity decay functions — with an evaluation framework extensible to global labor markets.
+> A command-line AI search engine that fetches real Google results via Serper.dev and feeds them to Groq's Llama 3.3 70B model, which synthesises a clean, sourced answer in under 5 seconds. Features 5 configurable answer modes — normal, brief, deep, eli5, and code — with a colour-coded terminal UI and zero cost to run.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python · PyTorch · PPO / DQN · NumPy · FastAPI · Docker · GCP |
-| **Repository** | [View Repository →](https://github.com/Xcloud007/workforce-optimizer) |
+| **Stack** | Python · Groq API · Llama 3.3 70B · Serper.dev · requests |
+| **Repository** | [View Repository →](https://github.com/Xcloud007/ai-search-engine) |
 
 </div>
 
@@ -166,53 +166,17 @@ I treat software as a discipline of systems — not a collection of features. Ev
 </details>
 
 <details>
-<summary><strong>⬡ &nbsp; Full Stack Developer Portfolio Platform — Next.js + Cloud</strong></summary>
+<summary><strong>⬡ &nbsp; Amazon Bestsellers Analysis — Python Data Analysis Tool</strong></summary>
 <br/>
 
-> A production-grade, cloud-deployed project showcase built with Next.js 14, TypeScript, and Tailwind CSS. Features SSR, dynamic project metadata, contact API routes, analytics integration, and CI/CD automation via GitHub Actions.
+> A Python data analysis tool that reads a CSV of Amazon's bestselling books using Pandas, runs a comprehensive statistical analysis across genres, ratings, pricing, and authors, and automatically generates a fully interactive self-contained HTML report with 6 charts and 2 ranked tables — no server or dashboard setup required.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Next.js 14 · TypeScript · Tailwind CSS · Node.js · Vercel · GitHub Actions |
-| **Repository** | [View Repository →](https://github.com/Xcloud007/portfolio) |
-
-</div>
-
-<br/>
-</details>
-
-<details>
-<summary><strong>⬡ &nbsp; Image Analytics Pipeline — Digital Image Processing Suite</strong></summary>
-<br/>
-
-> A comprehensive image analytics system implementing classical and deep-learning-based processing pipelines: morphological operations, multi-scale segmentation, Fourier/wavelet feature transforms, and CNN-based classification.
-
-<div align="center">
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python · OpenCV · PyTorch · NumPy · scikit-image · Matplotlib |
-| **Repository** | [View Repository →](https://github.com/Xcloud007/image-analytics) |
-
-</div>
-
-<br/>
-</details>
-
-<details>
-<summary><strong>⬡ &nbsp; GCP Data Engineering Suite — Dataflow · BigQuery · Dataproc</strong></summary>
-<br/>
-
-> A cloud-native data engineering portfolio built on Google Cloud Platform, covering batch and streaming data pipelines with Dataflow (Apache Beam), large-scale analytics with BigQuery, distributed processing with Dataproc (Apache Spark), and ML inference via GCP AI APIs.
-
-<div align="center">
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | GCP · Dataflow · BigQuery · Dataproc · Cloud Storage · ML APIs · Python |
-| **Repository** | [View Repository →](https://github.com/Xcloud007/gcp-data-engineering) |
+| **Stack** | Python · Pandas · Chart.js · HTML / CSS / JavaScript |
+| **Repository** | [View Repository →](https://github.com/Xcloud007/amazon-bestsellers-analysis) |
 
 </div>
 
